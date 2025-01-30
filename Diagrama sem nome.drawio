@@ -7,33 +7,6 @@
         <mxCell id="FtcXC-A8e_EpROsm66dy-9" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="575.2" width="340" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="FtcXC-A8e_EpROsm66dy-10" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="210" width="10" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="FtcXC-A8e_EpROsm66dy-12" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=#006EAF;align=center;outlineConnect=0;shape=mxgraph.citrix.router;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="709.8" y="400" width="90.41" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FtcXC-A8e_EpROsm66dy-28" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="460" width="10" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="FtcXC-A8e_EpROsm66dy-30" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.datacenter;" vertex="1" parent="1">
-          <mxGeometry x="175.14" y="890" width="269.16" height="285" as="geometry" />
-        </mxCell>
-        <mxCell id="FtcXC-A8e_EpROsm66dy-31" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.datacenter;" vertex="1" parent="1">
-          <mxGeometry x="640" y="890" width="269.17" height="285" as="geometry" />
-        </mxCell>
-        <mxCell id="FtcXC-A8e_EpROsm66dy-32" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.datacenter;" vertex="1" parent="1">
-          <mxGeometry x="1110.21" y="890" width="269.17" height="285" as="geometry" />
-        </mxCell>
-        <mxCell id="FtcXC-A8e_EpROsm66dy-33" value="VLAN1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1202.5" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FtcXC-A8e_EpROsm66dy-36" value="VLAN2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630.21" y="1200" width="269.86" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="FtcXC-A8e_EpROsm66dy-39" value="VLAN3" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110.21" y="1200" width="269.86" height="65" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
